@@ -1,0 +1,13 @@
+canvas
+{
+   border: 50cm; 
+   box-shadow: inset;
+   padding-bottom: 50cm;
+   margin: 50cm;
+}
+
+.webcam
+{
+   height: 500px;
+   width: 500px;
+}
